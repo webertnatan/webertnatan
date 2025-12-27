@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Webert Natan | Hi there! I'm Webert Natan
 
-🎯 Engenheiro DevOps Sênior apaixonado por automação, pipelines CI/CD, infraestrutura como código e ambientes escaláveis e resilientes.  
-🎯 Senior DevOps Engineer passionate about automation, CI/CD pipelines, infrastructure as code, and scalable, resilient environments.
+🎯 Engenheiro DevOps apaixonado por automação, pipelines CI/CD, infraestrutura como código e ambientes escaláveis e resilientes.  
+🎯 DevOps Engineer passionate about automation, CI/CD pipelines, infrastructure as code, and scalable, resilient environments.
 
 ---
 
